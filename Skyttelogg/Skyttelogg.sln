@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyttelogg", "Skyttelogg\Skyttelogg.csproj", "{FF9E511A-859A-489F-B6AD-4D42B9898163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{60865D37-3355-49C7-91F1-88B1A1F4C762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{05703C2D-7DAC-4CC0-B7FD-AE76091DF555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9E511A-859A-489F-B6AD-4D42B9898163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9E511A-859A-489F-B6AD-4D42B9898163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9E511A-859A-489F-B6AD-4D42B9898163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9E511A-859A-489F-B6AD-4D42B9898163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60865D37-3355-49C7-91F1-88B1A1F4C762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60865D37-3355-49C7-91F1-88B1A1F4C762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60865D37-3355-49C7-91F1-88B1A1F4C762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60865D37-3355-49C7-91F1-88B1A1F4C762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05703C2D-7DAC-4CC0-B7FD-AE76091DF555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05703C2D-7DAC-4CC0-B7FD-AE76091DF555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05703C2D-7DAC-4CC0-B7FD-AE76091DF555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05703C2D-7DAC-4CC0-B7FD-AE76091DF555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
